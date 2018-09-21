@@ -1,0 +1,9 @@
+body {
+    font-family: 'Nanum Gothic', sans-serif;
+    margin: 1em;
+    background-color: lightgray;
+}
+
+.h2 .p .a {
+    color: red;
+}
