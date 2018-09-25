@@ -1,9 +1,27 @@
 body {
-    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Gothic A1', sans-serif;
     margin: 1em;
     background-color: lightgray;
 }
 
-.h2 .p .a {
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: darkorchid;
+}
+
+.boxes {
+    display: block;
+    margin: 0rem;
+    padding: 2rem;
+    border: solid;
+    border-radius: 1rem;
+}
+
+a:hover {
     color: red;
+    font-weight: bold;
 }
