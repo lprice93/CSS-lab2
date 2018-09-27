@@ -19,9 +19,28 @@ a {
     padding: 2rem;
     border: solid;
     border-radius: 1rem;
+    width: 20%;
 }
 
 a:hover {
     color: red;
     font-weight: bold;
+}
+
+#box1 {
+    background-color: palegreen;
+}
+
+#box2 {
+    background-color: peachpuff;
+    position: absolute;
+    margin: -27rem 1rem 1rem 23rem;
+}
+
+#box3 {
+    background-color: lightcoral;
+}
+
+#box4 {
+    background-color: lightskyblue;
 }
