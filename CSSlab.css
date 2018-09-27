@@ -27,14 +27,18 @@ a:hover {
     font-weight: bold;
 }
 
+.images {
+    width: 10rem;
+    height: 5rem;
+    background-color: darkviolet;
+}
+
 #box1 {
     background-color: palegreen;
 }
 
 #box2 {
     background-color: peachpuff;
-    position: absolute;
-    margin: -22rem 1rem 1rem 29rem;
 }
 
 #box3 {
@@ -43,4 +47,51 @@ a:hover {
 
 #box4 {
     background-color: lightskyblue;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+.top3 {
+    color: firebrick;
+}
+
+.top5 {
+    color: darkseagreen;
+}
+
+#rank1 {
+    color: rgb(35, 78, 18);
+}
+
+#rank2 {
+    color: rgb(85, 122, 47);
+}
+
+#rank3 {
+     color: rgb(87, 141, 99);
+}
+
+#rank4 {
+    color: rgb(72, 138, 77);
+}
+
+#rank5 {
+    color: rgb(139, 196, 143);
+}
+
+.friends {
+    color: rgb(12, 65, 90);
+    border: 2px dashed rgb(238, 17, 17);
+}
+
+.countries {
+    color: rgb(16, 110, 197);
+    border: 2px dotted rgb(95, 230, 33);
+}
+
+.food {
+    color: rgb(60, 111, 148);
+    border: 2px solid rgb(243, 1, 231);
 }
